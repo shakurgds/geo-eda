@@ -1,2 +1,5 @@
 # geo-eda
-A repository for Geoeda Initial Project
+A repository for Geoeda Initial Project.
+
+# ESDA is Powerfull EDA
+Autocorelation and Regression
