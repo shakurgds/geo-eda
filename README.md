@@ -2,4 +2,4 @@
 A repository for Geoeda Initial Project.
 
 # ESDA is Powerfull EDA
-Autocorelation and Regression
+Autocorelation.
