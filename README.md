@@ -1,2 +1,2 @@
 # geo-eda
-A repository for Geoeda
+A repository for Geoeda Initial Project
